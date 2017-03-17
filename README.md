@@ -1,2 +1,2 @@
-# JS-Move-image-animation
-Move image animation in a loop
+# Loop-Image-Animation
+Move image animation
